@@ -1,0 +1,4 @@
+com/example/Assignment3/Assignment3Application.class
+com/example/Assignment3/controller/MovieController.class
+com/example/Assignment3/repository/MovieRepository.class
+com/example/Assignment3/model/Movie.class
